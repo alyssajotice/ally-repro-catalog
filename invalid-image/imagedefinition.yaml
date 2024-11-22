@@ -1,6 +1,6 @@
 $schema: 1.0
 name: project-sample-repro
-image: invalid-image
+image: ally-custom-image
 tasks:
     - name: choco
       parameters:
